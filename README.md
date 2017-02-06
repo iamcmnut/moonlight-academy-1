@@ -1,2 +1,2 @@
-# moonlight-academy
-Moonlight Academy is a opensource programming courseware for the beginner
+# Moonlight Academy
+หนึ่งในความฝันสูงสุดของผม ก็คือการสร้างมหาวิทยาลัยที่ทุกคนสามารถเรียนได้อย่างฟรีๆ เรียนกันออนไลน์เนี้ยแหละ อยากเรียนที่ไหนเมื่อไหร่ก็ได้ ผมไม่สนใจว่าคุณจะเป็นใคร แต่ถ้าคุณอยากเรียนคุณต้องได้เรียน!
